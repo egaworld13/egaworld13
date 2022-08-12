@@ -1,10 +1,9 @@
 - 👋 Hi, I’m egaworld13
 - 🌱 I’m currently learning :
-+ JavaScript
-+ CSS/SASS
-+ AngularJS
-+ Node.js
-+ Git <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/simpleicons.svg" />
+
+<img height="32" width="32" src="https://github.com/egaworld13/readme-icons/blob/main/icons8-git.svg"/>  <img height="32" width="32" src="https://github.com/egaworld13/readme-icons/blob/main/icons8-css3.svg"/> <img height="32" width="32" src="https://github.com/egaworld13/readme-icons/blob/main/icons8-javascript.gif"/> <img height="32" width="32" src="https://github.com/egaworld13/readme-icons/blob/main/icons8-sass.svg"/> <img height="32" width="32" src="https://github.com/egaworld13/readme-icons/blob/main/icons8-angularjs.svg"/> <img height="32" width="32" src="https://github.com/egaworld13/readme-icons/blob/main/icons8-node-js.svg"/>
+
+
 
 <!---
 egaworld13/egaworld13 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
