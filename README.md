@@ -4,7 +4,7 @@
 + CSS/SASS
 + AngularJS
 + Node.js
-+ Git![Minion](https://octodex.github.com/images/minion.png)
++ Git <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/simpleicons.svg" />
 
 <!---
 egaworld13/egaworld13 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
